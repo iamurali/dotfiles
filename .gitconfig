@@ -35,6 +35,5 @@
   gcl= clone
 [github]
   user = muralikummitha
-  password = murali0861
 [push]
   default = simple
